@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
