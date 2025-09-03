@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
