@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Math
 |  |
