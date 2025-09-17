@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0792-binary-search](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
