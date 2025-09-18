@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String Matching
 |  |
 | ------- |
