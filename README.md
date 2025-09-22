@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
