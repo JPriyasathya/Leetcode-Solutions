@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3226-minimum-number-game](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
