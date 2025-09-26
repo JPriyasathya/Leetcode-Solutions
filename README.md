@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
