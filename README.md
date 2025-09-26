@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2406-decode-the-message](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2406-decode-the-message) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2406-decode-the-message](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2406-decode-the-message) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
