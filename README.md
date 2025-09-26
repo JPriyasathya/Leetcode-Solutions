@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0985-bag-of-tokens) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
