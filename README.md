@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2406-decode-the-message](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2406-decode-the-message](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2502-sort-the-people](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting
