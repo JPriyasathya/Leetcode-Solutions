@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2825-minimize-string-length](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3226-minimum-number-game) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
