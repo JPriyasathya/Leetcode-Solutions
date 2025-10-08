@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0318-maximum-product-of-word-lengths](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting Sort
