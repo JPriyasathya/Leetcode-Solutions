@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0782-jewels-and-stones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1635-number-of-good-pairs](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JPriyasathya/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
